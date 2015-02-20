@@ -1,6 +1,6 @@
 <properties 
-   pageTitle="Connect Azure Storage" 
-   description="Azure Storage enables you to collect diagnostic telemetry data from a worker role, web role, or virtual machine running in Azure." 
+   pageTitle="Connect Operational Insights to Azure Storage" 
+   description="Connecting Operational Insights to Azure Storage enables you to collect diagnostic telemetry data from a worker role, web role, or virtual machine running in Azure." 
    documentationCenter="dev-center-name" 
    authors="Jim-Parker" 
    manager="jwhit" 
@@ -60,7 +60,7 @@ You can help us prioritize additional logs for Operational Insights to analyze b
 The following articles contain information about analyzing logs that are collected by Azure diagnostics.
 
 
-## Topics about analyzing logs collected with Azure Diagnostics
+## Next Steps
 
 [How to enable diagnostics in a Web role for IIS log and event collection](https://msdn.microsoft.com/en-us/library/azure/dn904277.aspx)
 
@@ -69,4 +69,3 @@ The following articles contain information about analyzing logs that are collect
 [How to enable analysis by Operational Insights](https://msdn.microsoft.com/en-us/library/azure/dn904279.aspx)
 
 
-<!--Every topic should have next steps and links to the next logical set of content to keep the customer engaged-->
